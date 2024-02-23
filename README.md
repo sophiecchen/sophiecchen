@@ -1,4 +1,6 @@
-### Hi! I'm Sophie 👋
+### Hello! I'm Sophie 🍪
+
+I'm currently a student studying computer science at university. I'm passionate about digital forensics, cryptography, secure software engineering, and the intersection of technology and society.
 
 <!--
 **sophiecchen/sophiecchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
