@@ -2,5 +2,6 @@
 
 I'm a student studying computer science at university. I'm passionate about digital forensics, cryptography, secure software engineering, and the intersection of technology and society.
 
+- 🔭 I’m currently exploring who edits Wikipedia pages on politically-contentious historical events.
 - 🌱 I’m currently learning digital forensics through [Weifeng Xu, Lin Deng, and Dianxiang Xu's Digital Forensics Lab](https://github.com/frankwxu/digital-forensics-lab)
 - 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/sophiecchen/) and my [cybersecurity blog](https://sophiecchen.gitbook.io/cookie-bytes/)
